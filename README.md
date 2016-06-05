@@ -1,1 +1,1 @@
-A simple PHP API built with Slim and MySQL
+A simple PHP API made using Slim framework
