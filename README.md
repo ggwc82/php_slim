@@ -1,1 +1,1 @@
-A simple MVC web application built using PHP and Slim.
+A simple PHP API built with Slim and MySQL
