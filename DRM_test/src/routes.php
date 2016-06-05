@@ -7,4 +7,14 @@ $app->get('/[{name}]', function ($request, $response, $args) {
 
     // Render index view
     return $this->renderer->render($response, 'index.phtml', $args);
+
+
+
+// Define app routes - from the tutorial
+/*
+$app->get('/hello/{name}', function ($request, $response, $args) {
+    return $response->write("Hello " . $args['name']);
+*/
+
+
 });
